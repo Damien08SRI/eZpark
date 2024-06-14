@@ -1,7 +1,7 @@
 <img src="https://github.com/DasunThathsara/eZpark/blob/main/public/images/landingpage.png?raw=true" />
 
 # eZpark 
-Parking assistance system
+Parking Assistance System
 
 ___
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
